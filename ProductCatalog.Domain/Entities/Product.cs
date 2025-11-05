@@ -1,6 +1,4 @@
-﻿namespace ProductCatalog.Domain.Entities
-using System;
-
+namespace ProductCatalog.Domain.Entities
 {
     public class Product
     {

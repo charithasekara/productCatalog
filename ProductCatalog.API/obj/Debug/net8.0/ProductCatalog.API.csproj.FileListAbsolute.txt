@@ -62,7 +62,6 @@ C:\Users\chari\OneDrive\Desktop\projects\productCatalog\ProductCatalog.API\obj\D
 C:\Users\chari\OneDrive\Desktop\projects\productCatalog\ProductCatalog.API\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\chari\OneDrive\Desktop\projects\productCatalog\ProductCatalog.API\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\chari\OneDrive\Desktop\projects\productCatalog\ProductCatalog.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\chari\OneDrive\Desktop\projects\productCatalog\ProductCatalog.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\chari\OneDrive\Desktop\projects\productCatalog\ProductCatalog.API\obj\Debug\net8.0\ProductC.072B42B1.Up2Date
 C:\Users\chari\OneDrive\Desktop\projects\productCatalog\ProductCatalog.API\obj\Debug\net8.0\ProductCatalog.API.dll
 C:\Users\chari\OneDrive\Desktop\projects\productCatalog\ProductCatalog.API\obj\Debug\net8.0\refint\ProductCatalog.API.dll
