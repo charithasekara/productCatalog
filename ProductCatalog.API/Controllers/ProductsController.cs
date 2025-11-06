@@ -38,5 +38,12 @@ namespace ProductCatalog.Api.Controllers
             return NoContent();
         }
 
+        [HttpDelete("{id}")]
+        public async Task<ActionResult> Delete(int id)
+        {
+            await _mediator.Send(new DeleteProductCommand(id));
+            return NoContent();
+        }
+
     }
 }

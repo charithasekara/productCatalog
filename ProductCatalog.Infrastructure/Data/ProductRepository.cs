@@ -43,5 +43,13 @@ namespace ProductCatalog.Infrastructure.Data
 
             await connection.ExecuteAsync(sql, product);
         }
+
+        public async Task DeleteAsync(int id)
+        {
+            using var connection = _connectionFactory.CreateConnection();
+            await connection.ExecuteAsync(
+                "DELETE FROM Products WHERE Id = @Id",
+                new { Id = id });
+        }
     }
 }
