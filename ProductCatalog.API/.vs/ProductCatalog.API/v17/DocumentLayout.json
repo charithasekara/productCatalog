@@ -3,13 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.Application\\Products\\Commands\\DeleteProductCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.Application\\Products\\Commands\\UpdateProductCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{277377DA-11E0-4AA6-98CC-F8583615971A}|..\\ProductCatalog.Infrastructure\\ProductCatalog.Infrastructure.csproj|c:\\users\\chari\\onedrive\\desktop\\projects\\productcatalog\\productcatalog.infrastructure\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9442EE7-D24B-4FE4-99C7-757B7CD6384F}|..\\ProductCatalog.Application\\ProductCatalog.Application.csproj|c:\\users\\chari\\onedrive\\desktop\\projects\\productcatalog\\productcatalog.application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.Application\\Products\\Commands\\DeleteProductCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9442EE7-D24B-4FE4-99C7-757B7CD6384F}|..\\ProductCatalog.Application\\ProductCatalog.Application.csproj|c:\\users\\chari\\onedrive\\desktop\\projects\\productcatalog\\productcatalog.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -21,9 +27,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.Application\\Products\\Commands\\UpdateProductCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{277377DA-11E0-4AA6-98CC-F8583615971A}|..\\ProductCatalog.Infrastructure\\ProductCatalog.Infrastructure.csproj|c:\\users\\chari\\onedrive\\desktop\\projects\\productcatalog\\productcatalog.infrastructure\\data\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -58,6 +61,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\README.md",
+              "RelativeDocumentMoniker": "..\\README.md",
+              "ToolTip": "C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\README.md",
+              "RelativeToolTip": "..\\README.md",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-06T07:30:17.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DeleteProductCommand.cs",
               "DocumentMoniker": "C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.Application\\Products\\Commands\\DeleteProductCommand.cs",
               "RelativeDocumentMoniker": "..\\ProductCatalog.Application\\Products\\Commands\\DeleteProductCommand.cs",
@@ -70,33 +86,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "UpdateProductCommand.cs",
               "DocumentMoniker": "C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.Application\\Products\\Commands\\UpdateProductCommand.cs",
               "RelativeDocumentMoniker": "..\\ProductCatalog.Application\\Products\\Commands\\UpdateProductCommand.cs",
               "ToolTip": "C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.Application\\Products\\Commands\\UpdateProductCommand.cs",
               "RelativeToolTip": "..\\ProductCatalog.Application\\Products\\Commands\\UpdateProductCommand.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAoAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T05:32:01.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.Infrastructure\\Data\\ProductRepository.cs",
               "RelativeDocumentMoniker": "..\\ProductCatalog.Infrastructure\\Data\\ProductRepository.cs",
               "ToolTip": "C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.Infrastructure\\Data\\ProductRepository.cs",
               "RelativeToolTip": "..\\ProductCatalog.Infrastructure\\Data\\ProductRepository.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwDQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T05:10:51.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "DatabaseConnectionFactory.cs",
               "DocumentMoniker": "C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.Infrastructure\\Data\\DatabaseConnectionFactory.cs",
               "RelativeDocumentMoniker": "..\\ProductCatalog.Infrastructure\\Data\\DatabaseConnectionFactory.cs",
@@ -109,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "DatabaseInitializer.cs",
               "DocumentMoniker": "C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.Infrastructure\\Data\\DatabaseInitializer.cs",
               "RelativeDocumentMoniker": "..\\ProductCatalog.Infrastructure\\Data\\DatabaseInitializer.cs",
@@ -122,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "GetAllProductsQuery.cs",
               "DocumentMoniker": "C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.Application\\Products\\Queries\\GetAllProductsQuery.cs",
               "RelativeDocumentMoniker": "..\\ProductCatalog.Application\\Products\\Queries\\GetAllProductsQuery.cs",
@@ -135,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.API\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
@@ -148,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.Application\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "..\\ProductCatalog.Application\\Interfaces\\IProductRepository.cs",
@@ -161,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -174,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.Application\\DTOs\\ProductDto.cs",
               "RelativeDocumentMoniker": "..\\ProductCatalog.Application\\DTOs\\ProductDto.cs",
@@ -187,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CreateProductCommand.cs",
               "DocumentMoniker": "C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.Application\\Products\\Commands\\CreateProductCommand.cs",
               "RelativeDocumentMoniker": "..\\ProductCatalog.Application\\Products\\Commands\\CreateProductCommand.cs",
@@ -200,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -213,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ProductCatalog.API.csproj",
               "DocumentMoniker": "C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.API\\ProductCatalog.API.csproj",
               "RelativeDocumentMoniker": "ProductCatalog.API.csproj",
