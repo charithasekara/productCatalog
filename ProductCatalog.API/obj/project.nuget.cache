@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6hgzNidEbbw=",
+  "dgSpecHash": "5B4wAxe+kvs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\chari\\Downloads\\productCatalog 1 (1) 1\\productCatalog 1 (1)\\productCatalog\\ProductCatalog.API\\ProductCatalog.API.csproj",
+  "projectFilePath": "C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.API\\ProductCatalog.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chari\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
     "C:\\Users\\chari\\.nuget\\packages\\mediatr\\13.1.0\\mediatr.13.1.0.nupkg.sha512",
@@ -33,9 +33,9 @@
       "code": "NU1608",
       "level": "Warning",
       "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 13.1.0 was resolved.",
-      "projectPath": "C:\\Users\\chari\\Downloads\\productCatalog 1 (1) 1\\productCatalog 1 (1)\\productCatalog\\ProductCatalog.API\\ProductCatalog.API.csproj",
+      "projectPath": "C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.API\\ProductCatalog.API.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\chari\\Downloads\\productCatalog 1 (1) 1\\productCatalog 1 (1)\\productCatalog\\ProductCatalog.API\\ProductCatalog.API.csproj",
+      "filePath": "C:\\Users\\chari\\OneDrive\\Desktop\\projects\\productCatalog\\ProductCatalog.API\\ProductCatalog.API.csproj",
       "libraryId": "MediatR",
       "targetGraphs": [
         "net9.0"
