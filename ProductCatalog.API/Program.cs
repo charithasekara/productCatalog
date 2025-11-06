@@ -5,8 +5,9 @@ builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(Produ
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") 
     ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
 
-
+//Create DB Connection for Dapper
 builder.Services.AddSingleton(new ProductCatalog.Infrastructure.Data.DatabaseConnectionFactory(connectionString));
+//Register Repository & Connects application layer with infrastructure layer
 builder.Services.AddScoped<ProductCatalog.Application.Interfaces.IProductRepository, ProductCatalog.Infrastructure.Data.ProductRepository>();
 
 builder.Services.AddControllers();

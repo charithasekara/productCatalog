@@ -6,5 +6,7 @@ namespace ProductCatalog.Application.Interfaces
     {
         Task<IEnumerable<Product>> GetAllAsync();
         Task<int> CreateAsync(Product product);
+        Task UpdateAsync(Product product);
+
     }
 }

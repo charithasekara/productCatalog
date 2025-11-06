@@ -28,5 +28,20 @@ namespace ProductCatalog.Infrastructure.Data
 
             return await connection.ExecuteScalarAsync<int>(sql, product);
         }
+
+        public async Task UpdateAsync(Product product)
+        {
+            using var connection = _connectionFactory.CreateConnection();
+            var sql = @"UPDATE Products 
+                       SET Name = @Name, 
+                           Description = @Description, 
+                           Price = @Price, 
+                           StockQuantity = @StockQuantity, 
+                           Category = @Category, 
+                           UpdatedAt = @UpdatedAt
+                       WHERE Id = @Id";
+
+            await connection.ExecuteAsync(sql, product);
+        }
     }
 }

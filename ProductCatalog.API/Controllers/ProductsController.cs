@@ -30,5 +30,13 @@ namespace ProductCatalog.Api.Controllers
             var id = await _mediator.Send(new CreateProductCommand(productDto));
             return Ok(id);
         }
+
+        [HttpPut("{id}")]
+        public async Task<ActionResult> Update(int id, [FromBody] ProductDto productDto)
+        {
+            await _mediator.Send(new UpdateProductCommand(id, productDto));
+            return NoContent();
+        }
+
     }
 }
