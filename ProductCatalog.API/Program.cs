@@ -1,5 +1,18 @@
 var builder = WebApplication.CreateBuilder(args);
 
+// Add CORS
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(builder =>
+    {
+        builder.WithOrigins("http://localhost:5174", "https://localhost:5174")
+               .AllowAnyMethod()
+               .AllowAnyHeader()
+               .WithExposedHeaders("Content-Range")  // If you need pagination
+               .SetIsOriginAllowed(origin => true);  // Allow any origin in development
+    });
+});
+
 builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(ProductCatalog.Application.Products.Queries.GetAllProductsQuery).Assembly));
 
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") 
@@ -22,6 +35,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors();
 
 app.UseHttpsRedirection();
 
